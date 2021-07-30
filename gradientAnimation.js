@@ -521,18 +521,25 @@ class Gradient {
 var gradient = new Gradient();
     gradient.initGradient("#gradient-canvas");
 
-var gradientD = new Gradient();
-    gradientD.initGradient("#gradient-canvass");
-
 /*
-*Inizializzo i gradient per i membri del team
+*Inizializzo i gradient per gli step della seconda sezione
 */
-var gradientSaiseiUno = new Gradient();
-    gradientSaiseiUno.initGradient("#team_member_1");
 
-var gradientSaiseiDue = new Gradient();
-    gradientSaiseiDue.initGradient("#team_member_2");
+var gradientUno = new Gradient();
+    gradientUno.initGradient("#primo");
 
-var gradientSaiseiTre = new Gradient();
-    gradientSaiseiTre.initGradient("#team_member_3");
+var gradientDue = new Gradient();
+    gradientDue.initGradient("#secondo");
+
+var gradientTre = new Gradient();
+    gradientTre.initGradient("#terzo");
+
+var gradientQuattro = new Gradient();
+    gradientQuattro.initGradient("#quarto");
+
+var gradientCinque = new Gradient();
+    gradientCinque.initGradient("#quinto");
+
+var gradientSei = new Gradient();
+    gradientSei.initGradient("#sesto");
 
