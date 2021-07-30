@@ -523,3 +523,16 @@ var gradient = new Gradient();
 
 var gradientD = new Gradient();
     gradientD.initGradient("#gradient-canvass");
+
+/*
+*Inizializzo i gradient per i membri del team
+*/
+var gradientSaiseiUno = new Gradient();
+    gradientSaiseiUno.initGradient("#team_member_1");
+
+var gradientSaiseiDue = new Gradient();
+    gradientSaiseiDue.initGradient("#team_member_2");
+
+var gradientSaiseiTre = new Gradient();
+    gradientSaiseiTre.initGradient("#team_member_3");
+
