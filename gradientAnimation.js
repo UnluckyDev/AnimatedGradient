@@ -543,3 +543,6 @@ var gradientCinque = new Gradient();
 var gradientSei = new Gradient();
     gradientSei.initGradient("#sesto");
 
+var gradientSteps = new Gradient();
+    gradientSteps.initGradient("#steps-subsection");
+
